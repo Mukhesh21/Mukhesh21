@@ -1,5 +1,4 @@
-@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi there
 
 <!--
 **Mukhesh21/Mukhesh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm a third-year undergraduate student.
+I'm a third-year undergraduate student.
 
 I'm currently pursuing my degree in Artificial Intelligence and Data Science. I'm genuinely interested in building projects and solving problems, and I enjoy the process of taking an idea, breaking it down, and turning it into something that actually works.
-
-Most of my time goes into data analytics, where I work with algorithms like clustering and classification to find patterns and draw insights from data. I also spend a fair amount of time exploring how data can be visualized and communicated clearly, not just analyzed.
-
-I'm still learning every day, and I like that about this field. There's always a new library, a new technique, or a better way to approach a problem.
+Most of my time goes into data analytics, where I work with algorithms like clustering and classification to find patterns and draw insights from data.
 
 ---
 
