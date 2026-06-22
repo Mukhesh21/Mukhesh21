@@ -1,4 +1,4 @@
-### Hi, I'm a third-year undergraduate student.
+++++### Hi, I'm a third-year undergraduate student.
 
 I'm currently pursuing my degree in Artificial Intelligence and Data Science. I'm genuinely interested in building projects and solving problems, and I enjoy the process of taking an idea, breaking it down, and turning it into something that actually works.
 
@@ -39,8 +39,8 @@ I use these mainly for cleaning data, running exploratory analysis, building vis
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-handle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-github-handle](https://github.com/Mukhesh21))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukhesh1205@gmail.com)
 
 ---
 
