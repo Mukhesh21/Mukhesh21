@@ -1,5 +1,3 @@
-Hi there
-
 <!--
 **Mukhesh21/Mukhesh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
